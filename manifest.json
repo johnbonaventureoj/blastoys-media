@@ -1,38 +1,78 @@
 {
-  "plush": {
-    "title": "16cm Capybara & Friends Sitting Animal Plush | Blastoys UK",
-    "image": "https://cdn.shopify.com/s/files/1/0964/3982/8827/files/fe4d06d54b54b2b4ff7da032f5936192.jpg?v=1771419228",
-    "price": "21.74",
-    "product_url": "https://blastoys.uk/product/cute-sitting-animals-red-panda-fox-sloth-cat-plush-toys-soft-plush-dolls-stuffed-capybara-pig-plushie-baby-toys-gifts-for-kids",
-    "reel": "https://www.instagram.com/reel/DbJJ4n8llU3/",
-    "published_at": "2026-07-23T17:02:28.531107+00:00",
-    "status": "featured"
-  },
-  "cars": {
-    "title": "1148-Piece Super Sports Racing Car Building Set | Blastoys UK",
-    "image": "https://cdn.shopify.com/s/files/1/0964/3982/8827/files/626d4af3ac02765073098ace80ce9c15.jpg?v=1771422981",
-    "price": "58.10",
-    "product_url": "https://blastoys.uk/product/2023-building-blocks-concept-edition-sports-car-super-racing-building-blocks-brick-model-overspeed-car-toy-childrens-gift",
-    "reel": "https://www.instagram.com/reel/DavZ4jpjE32/",
-    "published_at": "2026-07-13T17:02:05.471510+00:00",
-    "status": "featured"
-  },
-  "educational": {
-    "title": "13-in-1 Educational Solar Robot DIY Building Kit | Blastoys UK",
-    "image": "https://cdn.shopify.com/s/files/1/0964/3982/8827/files/e9f1bcf4f0c5aac73ffebeee67b6dfc0.jpg?v=1771378448",
-    "price": "43.35",
-    "product_url": "https://blastoys.uk/product/13-in-1-educational-solar-energy-robot-diy-kit-toys-for-kids-powered-children-boy-girls-learning-toy-gift",
-    "reel": "https://www.instagram.com/reel/DbBbcH5ioLH/",
-    "published_at": "2026-07-20T17:02:05.363326+00:00",
-    "status": "featured"
-  },
-  "lego": {
-    "title": "1280-Piece RC Supercar Building Blocks \u2014 App-Controlled Brick Kit",
-    "image": "https://cdn.shopify.com/s/files/1/0964/3982/8827/files/3428dad3771525167837ca55fd2e2004.jpg?v=1771423087",
-    "price": "57.48",
-    "product_url": "https://blastoys.uk/product/1280-pcs-technology-1-14-supercar-building-blocks-assemble-brick-car-toy-gifts-for-boys-gifts-for-christmas-gifts",
-    "reel": "https://www.instagram.com/reel/DbIZcJeEtKx/",
-    "published_at": "2026-07-23T09:59:14.516637+00:00",
-    "status": "featured"
-  }
+  "plush": [
+    {
+      "title": "16cm Capybara & Friends Sitting Animal Plush | Blastoys UK",
+      "image": "https://cdn.shopify.com/s/files/1/0964/3982/8827/files/fe4d06d54b54b2b4ff7da032f5936192.jpg?v=1771419228",
+      "price": "21.74",
+      "product_url": "https://blastoys.uk/product/cute-sitting-animals-red-panda-fox-sloth-cat-plush-toys-soft-plush-dolls-stuffed-capybara-pig-plushie-baby-toys-gifts-for-kids",
+      "reel": "https://www.instagram.com/reel/DbJJ4n8llU3/",
+      "published_at": "2026-07-23T17:02:28.531107+00:00",
+      "status": "featured"
+    },
+    {
+      "title": "36cm Cute Shiba Inu Soft Plush Pillow Toy | Blastoys",
+      "image": "https://cdn.shopify.com/s/files/1/0964/3982/8827/files/7f30822ffcb3a50158f4fffab24422df.jpg?v=1771414642",
+      "price": "24.69",
+      "product_url": "https://blastoys.uk/product/36-55-cute-fat-shiba-inu-dog-plush-toy-stuffed-soft-kawaii-animal-cartoon-pillow-lovely-gift-for-kids-baby-children-good-quality",
+      "published_at": "2026-07-23T17:02:28.531107+00:00",
+      "status": "featured"
+    }
+  ],
+  "cars": [
+    {
+      "title": "1148-Piece Super Sports Racing Car Building Set | Blastoys UK",
+      "image": "https://cdn.shopify.com/s/files/1/0964/3982/8827/files/626d4af3ac02765073098ace80ce9c15.jpg?v=1771422981",
+      "price": "58.10",
+      "product_url": "https://blastoys.uk/product/2023-building-blocks-concept-edition-sports-car-super-racing-building-blocks-brick-model-overspeed-car-toy-childrens-gift",
+      "reel": "https://www.instagram.com/reel/DavZ4jpjE32/",
+      "published_at": "2026-07-13T17:02:05.471510+00:00",
+      "status": "featured"
+    },
+    {
+      "title": "1:22 Scale Jesko Super Car Diecast Model with Lights & Sounds",
+      "image": "https://cdn.shopify.com/s/files/1/0964/3982/8827/files/7cdbca63212e339a8fb06242370fd748.jpg?v=1771411766",
+      "price": "45.55",
+      "product_url": "https://blastoys.uk/product/1-22-scale-jesko-super-car-model-toys-metal-diecast-light-music-pull-back-sports-cars-models-collection-racing-vehicle-gift-boys",
+      "published_at": "2026-07-13T17:02:05.471510+00:00",
+      "status": "featured"
+    }
+  ],
+  "educational": [
+    {
+      "title": "13-in-1 Educational Solar Robot DIY Building Kit | Blastoys UK",
+      "image": "https://cdn.shopify.com/s/files/1/0964/3982/8827/files/e9f1bcf4f0c5aac73ffebeee67b6dfc0.jpg?v=1771378448",
+      "price": "43.35",
+      "product_url": "https://blastoys.uk/product/13-in-1-educational-solar-energy-robot-diy-kit-toys-for-kids-powered-children-boy-girls-learning-toy-gift",
+      "reel": "https://www.instagram.com/reel/DbBbcH5ioLH/",
+      "published_at": "2026-07-20T17:02:05.363326+00:00",
+      "status": "featured"
+    },
+    {
+      "title": "60-Piece Rainbow Linked Buckle Learning Set | Blastoys UK",
+      "image": "https://cdn.shopify.com/s/files/1/0964/3982/8827/files/58866e00c85ca3d1c3cbf0d9d652a7af.jpg?v=1771411782",
+      "price": "29.32",
+      "product_url": "https://blastoys.uk/product/kids-geometric-chain-linked-buckle-building-block-educational-toys-rainbow-connected-buckle-color-cognitive-educational-toys",
+      "published_at": "2026-07-20T17:02:05.363326+00:00",
+      "status": "featured"
+    }
+  ],
+  "lego": [
+    {
+      "title": "1280-Piece RC Supercar Building Blocks \u2014 App-Controlled Brick Kit",
+      "image": "https://cdn.shopify.com/s/files/1/0964/3982/8827/files/3428dad3771525167837ca55fd2e2004.jpg?v=1771423087",
+      "price": "57.48",
+      "product_url": "https://blastoys.uk/product/1280-pcs-technology-1-14-supercar-building-blocks-assemble-brick-car-toy-gifts-for-boys-gifts-for-christmas-gifts",
+      "reel": "https://www.instagram.com/reel/DbIZcJeEtKx/",
+      "published_at": "2026-07-23T09:59:14.516637+00:00",
+      "status": "featured"
+    },
+    {
+      "title": "60-Piece Rainbow Linked Buckle Learning Set | Blastoys UK",
+      "image": "https://cdn.shopify.com/s/files/1/0964/3982/8827/files/58866e00c85ca3d1c3cbf0d9d652a7af.jpg?v=1771411782",
+      "price": "29.32",
+      "product_url": "https://blastoys.uk/product/kids-geometric-chain-linked-buckle-building-block-educational-toys-rainbow-connected-buckle-color-cognitive-educational-toys",
+      "published_at": "2026-07-23T09:59:14.516637+00:00",
+      "status": "featured"
+    }
+  ]
 }
